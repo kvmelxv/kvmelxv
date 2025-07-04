@@ -21,8 +21,9 @@ I’m a passionate **software engineering student** and web developer based in M
 
 ## 📈 GitHub Stats
 
-![kvmelxv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvmelxv&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvmelxv&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvmelxv&show_icons=true&theme=github_dark" alt="kvmelxv's GitHub stats" />
+</p>
 
 ---
 
