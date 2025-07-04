@@ -15,7 +15,7 @@ I’m a passionate **software engineering student** and web developer based in M
 ## 🧰 Tools & Technologies
 
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,python,postgres,docker,java,maven,git,github,linux)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,python,postgres,docker,java,maven,junit,git,github,linux)
 
 ---
 
