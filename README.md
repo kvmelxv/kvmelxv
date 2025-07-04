@@ -1,15 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mustapha Kamel Cherif</h1>
-<h3 align="center">Software engineering student | web developer</h3>
+# 👋 Salut, moi c’est Mustapha Kamel Cherif
 
-- 👨‍💻 All of my projects are available at [amelchx.ca](amelchx.ca)
+## 💻 À propos de moi
 
-- 📫 How to reach me **kamelcherifpro@gmail.com**
+Développeur web passionné basé à Montréal, j’adore créer des applications modernes, performantes et utiles. Diplômé en développement web, je suis toujours à la recherche de nouveaux défis techniques et d'opportunités d'apprentissage. Je suis particulièrement intéressé par le développement full-stack, l’UX/UI, et l’amélioration continue des performances des applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/musmustapha kamel chérif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musmustapha kamel chérif" height="30" width="40" /></a>
-<a href="https://instagram.com/kvmelxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kvmelxv" height="30" width="40" /></a>
-</p>
+- 🌱 Actuellement, je perfectionne mes compétences en **Next.js, TypeScript, Prisma & PostgreSQL**
+- 🚀 Je travaille sur des projets mêlant **web apps**, **applications mobiles** et **API RESTful**
+- 🛠️ Stack principale : React, Next.js, Node.js, PostgreSQL, TailwindCSS, Git
+- 🗃️ J’explore aussi Supabase, Docker et CI/CD (GitHub Actions)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🧰 Outils & Technologies
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,prisma,tailwind,docker,figma,git,github,linux)
+
+---
+
+## 📈 Statistiques GitHub
+
+![kvmelxv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvmelxv&show_icons=true&theme=github_dark&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvmelxv&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Me contacter
+
+- Portfolio : [kamelchx.ca](https://kamelchx.ca)
+- Email : mustapha.kamel.cherif@email.ca
+- LinkedIn : [linkedin.com/in/kvmelxv](https://linkedin.com/in/kvmelxv)
+
+---
+
+## 🧠 Projets en vedette
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **Jobber App** | Plateforme de mise en relation entre professionnels et clients pour des services | Next.js, PostgreSQL, Supabase, Prisma |
+| **AutoClinique** | Application de gestion de garage avec affichage TV et interface client | React, TailwindCSS, Node.js |
+| **Comparateur de pièces auto** | Outil de comparaison de pièces avec achat direct | Next.js, API tierces, PostgreSQL |
+
+---
+
+Merci de visiter mon profil ! Si tu veux collaborer, n’hésite pas à m’écrire 😄
