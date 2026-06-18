@@ -13,15 +13,7 @@ I'm a software engineering student and front-end developer based in Montreal, cu
 
 ## 🧰 Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,python,postgres,docker,java,maven,flask,git,github,linux)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvmelxv&show_icons=true&theme=github_dark" alt="kvmelxv's GitHub stats" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,react,nextjs,tailwind,git,github,supabase,vercel,figma,jira)
 
 ---
 
@@ -41,6 +33,10 @@ I'm a software engineering student and front-end developer based in Montreal, cu
 - 🌱 Currently learning: TypeScript, Java, testing practices, and software design patterns
 - 💬 Ask me about: front-end frameworks, back-end APIs, software tooling, and anything JavaScript or Java
 - ⚡ Fun fact: I love turning ideas into apps — and coffee is my favorite coding companion ☕💻
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate 😄- ⚡ Fun fact: I love turning ideas into apps — and coffee is my favorite coding companion ☕💻
 
 ---
 
