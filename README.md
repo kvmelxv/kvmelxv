@@ -1,19 +1,17 @@
-# 👋 Hi, I’m Mustapha Kamel Cherif
+# 👋 Hi, I'm Mustapha Kamel Cherif
 
 ## 💻 About Me
 
-I’m a passionate **software engineering student** and web developer based in Montreal. I enjoy building modern, high-performance applications that solve real problems. With a background in web development, I’m constantly seeking new challenges and learning opportunities. My interests lie in full-stack development, software architecture, and creating intuitive user experiences.
+I'm a software engineering student and front-end developer based in Montreal, currently building and maintaining the Pokeadeal website. I enjoy building modern, high-performance applications that solve real problems, and I'm always looking for new challenges and learning opportunities. My focus areas are full-stack development, software architecture, and crafting intuitive user experiences.
 
-- 🌱 I’m currently sharpening my skills in **Java**, **Maven**, **JUnit**, and **IntelliJ IDEA**, while deepening my understanding of software architecture and development tools
-- 🚀 I’m working on several web and software projects involving **web apps**, **mobile-friendly UIs**, and **RESTful APIs**
-- 🛠️ Main stack for web development: **React**, **Next.js**, **Node.js**, **PostgreSQL**, **TailwindCSS**, **Git**
-- 🧰 Also experienced in non-web software development using **Java** and standard tools like **Maven**, **JUnit**, and **IntelliJ IDEA**
-- 🗃️ Exploring tools like **Supabase**, **Docker**, and **GitHub Actions**
+- 🌱 Currently sharpening my skills in **Java**, **Maven**, **JUnit**, and **IntelliJ IDEA** — including for non-web software development — while deepening my understanding of software architecture
+- 🚀 Working on web and software projects involving **web apps**, **mobile-friendly UIs**, and **RESTful APIs**
+- 🛠️ Main stack for web development: **React**, **Next.js**, **Node.js**, **PostgreSQL**, **Tailwind CSS**, **Git**
+- 🗃️ Exploring **Supabase**, **Docker**, and **GitHub Actions**
 
 ---
 
 ## 🧰 Tools & Technologies
-
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,python,postgres,docker,java,maven,flask,git,github,linux)
 
@@ -30,20 +28,20 @@ I’m a passionate **software engineering student** and web developer based in M
 ## 📫 Contact Me
 
 - 🌐 Portfolio: [kamelchx.ca](https://kamelchx.ca)
-- 📧 Email: kamekcherifpro@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/kvmelxv](www.linkedin.com/in/musmustapha-kamel-chérif)
+- 📧 Email: [kamelcherifpro@gmail.com](mailto:kamelcherifpro@gmail.com)
+- 💼 LinkedIn: [Mustapha Kamel Cherif](https://www.linkedin.com/in/musmustapha-kamel-chérif/)
 
 ---
 
 ## ✨ More About Me
 
-- 🔭 I’m currently working on: Full-stack platforms with **Next.js**, **Supabase**, and **PostgreSQL**
-- 👯 I’m looking to collaborate on: Open-source tools, productivity apps, or community platforms
-- 🤝 I’m looking for help with: DevOps, CI/CD workflows, and app scalability
-- 🌱 I’m currently learning: TypeScript, Java, testing practices, and software design patterns
-- 💬 Ask me about: Frontend frameworks, backend APIs, software tooling, and anything JavaScript or Java
+- 🔭 Currently working on: full-stack platforms with **Next.js**, **Supabase**, and **PostgreSQL**
+- 👯 Looking to collaborate on: open-source tools, productivity apps, or community platforms
+- 🤝 Looking for help with: DevOps, CI/CD workflows, and app scalability
+- 🌱 Currently learning: TypeScript, Java, testing practices, and software design patterns
+- 💬 Ask me about: front-end frameworks, back-end APIs, software tooling, and anything JavaScript or Java
 - ⚡ Fun fact: I love turning ideas into apps — and coffee is my favorite coding companion ☕💻
 
 ---
 
-Thanks for visiting my profile! If you’d like to collaborate, don’t hesitate to reach out 😄
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate 😄
